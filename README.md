@@ -1,2 +1,1 @@
-# ManyBodyQLE
-Julia SDE Solver for Many-Body Proton Trajectorries
+These scripts simulate the transient many-body collisions of protons under 1-2 nm dimensional squeezing. They demonstrate that while the Quantum Langevin Equation (QLE) permits correlated percolation through overlapping hydration shells, classical overdamped Langevin dynamics result in zero flux.
