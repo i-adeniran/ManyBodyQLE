@@ -1,4 +1,4 @@
-# =======================================================
+# ========================================================
 # The Crowded Proton Wire (Grotthuss Cascades)
 # Quantum Spatial Smearing and Correlated Percolation
 #
@@ -8,7 +8,7 @@
 # Brownian and Molecular Motors; Fornés, J. A., Ed.; 
 # Springer International Publishing: Cham, 2021; 
 # pp 123–148. https://doi.org/10.1007/978-3-030-64957-9_8.
-# =======================================================
+# ========================================================
 
 using Plots
 using LinearAlgebra
